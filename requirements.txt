@@ -1,0 +1,8 @@
+flask
+flask-cors
+transformers
+langchain_huggingface  # Replace with the actual LangChain package names
+langchain_community
+openai
+langsmith
+sqlite3
